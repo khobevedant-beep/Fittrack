@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'>
+  <!-- Dark background -->
+  <rect width='512' height='512' rx='112.64' fill='#0a0a0a'/>
+  <!-- Green glow circle -->
+  <circle cx='256' cy='256' r='230.4' fill='#c8ff0015' stroke='#c8ff00' stroke-width='12.8'/>
+  <!-- FT letters -->
+  <text x='256' y='324.096' 
+    text-anchor='middle' 
+    font-family='-apple-system,BlinkMacSystemFont,Arial,sans-serif'
+    font-weight='800'
+    font-size='194.56'
+    fill='#c8ff00'>FT</text>
+  <!-- Small dot accent -->
+  <circle cx='394.24' cy='117.75999999999999' r='20.48' fill='#c8ff00' opacity='0.8'/>
+</svg>
